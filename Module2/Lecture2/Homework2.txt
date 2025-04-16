@@ -1,0 +1,6 @@
+First, input n and k. Then, input the colors of the balloons.
+Split each character in the string into a vector. After that,
+check for any duplicate values, and the number of times a certain
+value is repeated (find the highest number of times) and name it
+maximum. After that, check if maximum is greater than number of
+friends. If it is, print <<NO>>. Else print <<YES>> 
