@@ -1,0 +1,5 @@
+First, set x and y to 0 (assuming values are already inputted). Calculate
+the ofset in distance (as independant x andy values) for each set of moves
+Alice makes from her starting point. Then, check if (by divisibility), by covering this
+distance each time, will Alice cross/reach the queen. If yes, cout << "<<YES>>";. Else
+cout << "<<NO>>";
